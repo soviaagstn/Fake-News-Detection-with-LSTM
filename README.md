@@ -1,5 +1,9 @@
 # Fake-News-Detection-with-LSTM
 
+<Notes: This model is still in the development stage, and has not yet become a finished model ...>
+
+
+
 Welcome!
 
 This project is about predicting fake news using the Fake News dataset which you can access via the following link.
