@@ -1,6 +1,6 @@
 # Fake-News-Detection-with-LSTM
 
-<Notes: This model is still in the development stage, and has not yet become a finished model ...>
+<Notes: Planning to evaluate and add some preprocessing steps to the model>
 
 
 
